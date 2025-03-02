@@ -210,6 +210,11 @@ footer{
 /* -------- Education --------*/
 
 .education {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    background-color: #000097;
+    border: solid;
+    border-color: transparent;
+    border-radius: 1em;  
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 10vw;
