@@ -215,9 +215,7 @@ footer{
     border: solid;
     border-color: transparent;
     border-radius: 1em;  
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 10vw;
+
     align-items: center;
     text-align: center;
     font-size: 1.25em;
